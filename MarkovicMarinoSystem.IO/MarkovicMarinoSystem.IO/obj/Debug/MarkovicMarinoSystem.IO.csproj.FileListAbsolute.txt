@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\bin\Debug\MarkovicMarinoSystem.IO.exe.config
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\bin\Debug\MarkovicMarinoSystem.IO.exe
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\bin\Debug\MarkovicMarinoSystem.IO.pdb
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\obj\Debug\MarkovicMarinoSystem.IO.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\obj\Debug\MarkovicMarinoSystem.IO.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\obj\Debug\MarkovicMarinoSystem.IO.exe
+C:\Users\Ucenik\source\repos\MarkovicMarinoSystem.IO\MarkovicMarinoSystem.IO\obj\Debug\MarkovicMarinoSystem.IO.pdb
